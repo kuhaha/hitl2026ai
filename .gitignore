@@ -1,0 +1,34 @@
+# バイトコード
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境
+venv/
+.venv/
+env/
+virtualenv/
+
+# 環境変数・機密情報
+.env
+
+# ビルド・配布成果物
+build/
+dist/
+*.egg-info/
+
+# テスト・カバレッジ
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# エディタ・IDE設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS固有のファイル
+.DS_Store
+Thumbs.db
