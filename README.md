@@ -1,6 +1,6 @@
 # hitl2026ai
 
-
+```shell
 ├──app
     ├── __init_.py 
     ├── main.py
@@ -21,3 +21,4 @@
         └── models:         # Async SQLAlchemy / DB connection management
     ├── services:           # External integrations & data access layer
     └── tools:              # エージェントに持たせる外部ツール群
+```
