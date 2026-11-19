@@ -19,6 +19,6 @@
         ├── agents          # Agent Specifications
         ├── schemas         # Shared Pydantic models (API Request/Response)
         └── models          # Async SQLAlchemy / DB connection management
-    ├── services:           # External integrations & data access layer
-    └── tools:              # エージェントに持たせる外部ツール群
+    ├── services            # External integrations & data access layer
+    └── tools               # エージェントに持たせる外部ツール群
 ```
